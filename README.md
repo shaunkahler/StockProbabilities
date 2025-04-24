@@ -6,6 +6,8 @@ This Power BI dashboard presents an in-depth look at historical stock returns on
 
 The result is a clear visualization of your chances of randomly picking a stock that earns anywhere from -95% to +100% or more. It shows the full spread of potential returns, including how often different outcomes occur—and why, over long periods, the odds tend to favor patient investors.
 
+![Stock Return Chart](images/result.png)
+
 ## 📈 Key Insights
 
 - **Return Distribution Chart**: Visualizes the likelihood of different return outcomes across NASDAQ stocks.
